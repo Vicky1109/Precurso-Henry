@@ -1,2 +1,2 @@
-# Precurso-Henry
-Este es inicio de modulo2
+como clonar un repositorio a mi computador
+
